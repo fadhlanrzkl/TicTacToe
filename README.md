@@ -11,7 +11,7 @@ To start playing Tic Tac Toe, follow these steps:
 2. Open the `index.html` file in a web browser.
 3. Start making moves by clicking on the empty cells in the grid.
 
-Contact
+# Contact
 For any inquiries or feedback, please contact me at fadhlanrzkl@gmail.com
 
 Let's have some fun with Tic Tac Toe!
